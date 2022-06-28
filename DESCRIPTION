@@ -1,0 +1,13 @@
+Package: OneWayLRT
+Type: Package
+Title: Parametric bootstrap LRT
+Version: 0.1.0
+Author: Anjana Mondal
+Maintainer: Anjana Mondal <mondal.anjana25@gmail.com>
+Description: This package finds critical value along with statistic value of bootstrap based LRT method for testing equility of 
+  treatment effects against ordered alternative in One-Way ANOVA model with heteroscedasticity.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Depends: Iso
+RoxygenNote: 7.2.0
